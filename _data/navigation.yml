@@ -1,0 +1,24 @@
+# main:
+#   - title: "Posts"
+#     url: /posts/
+#   - title: "Categories"
+#     url: /categories/
+#   - title: "Tags"
+#     url: /tags/
+#   - title: "About"
+#     url: /about/
+
+docs:
+  - title: "About"
+    url: /about/
+  - title: "Posts by Year"
+    url: /posts/
+  # - title: "Categories"
+  #   url: /categories/
+  - title: "Posts by Tags"
+    url: /tags/
+
+  # - title: Recent Posts
+  #   children:
+  #     - title: "Welcome to FIT"
+  #       url: /blog/welcome-to-FIT/

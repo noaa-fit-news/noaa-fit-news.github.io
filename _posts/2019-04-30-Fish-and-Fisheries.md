@@ -2,7 +2,6 @@
 title: "Fish and Fisheries"
 date: 2019-05-22T15:52:30-04:00
 categories:
-  - blog
 tags:
   - Portal
   - update

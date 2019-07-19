@@ -8,8 +8,8 @@ tags:
   - Fish and Fisheries
 ---
 
-A preliminary portal to the NOAA Genereal Modeling Tools that are part of the Fisheries Integrated Toolbox Fishhas been posted
-[NMFS-Fish-general-tools](https://nmfs-general-modeling-tools.github.io/)
+A preliminary portal to the NOAA Genereal Modeling Tools that are part of the Fisheries Integrated Toolbox has been posted
+[NMFS-General-Modeling-Tools](https://nmfs-general-modeling-tools.github.io/)
 
 
 

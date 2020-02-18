@@ -1,6 +1,6 @@
 ---
 title: "VAST 3.3.0"
-date: 2020=01-14
+date: 2020-01-14
 categories:
 tags:
   - VAST

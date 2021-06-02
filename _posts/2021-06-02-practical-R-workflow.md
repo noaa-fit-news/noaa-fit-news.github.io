@@ -16,9 +16,9 @@ The workshop will be focused on tools and practices for NMFS scientists to help 
 
 ## [Set-up instructions:](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/set-up.html)
 
-You can just watch the lectures, but if you want to follow along you will need to get a GitHub account. For the software, you have 2 options
+You can just watch the lectures, but if you want to follow along you will need to get a GitHub account. For the software, you have 2 options:
 
-1) Install R, RStudio and GitHub Desktop on your computer.
-2) Install nothing and use RStudio Cloud.
+1) Install [R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/products/rstudio/), and [GitHub Desktop](https://desktop.github.com/) on your computer.
+2) Install nothing and use [RStudio Cloud](https://rstudio.cloud/).
 
 GitHub Classroom will be used for sharing the teaching material. Note, it is fine to just listen to the lectures but if you want to 'learn by doing', then click this link to get your first 'assignment'. There is no 'assignment', you'll just get an invite to join the 'classroom'. [Join the classroom.](https://classroom.github.com/a/dBZRHuJY)

@@ -8,7 +8,7 @@ tags:
 ---
 ## Practical R Workflow Workshop for NMFS Scientists
 
-Eli Holmes from the Northwest Center will be hosting an 8-part Practical R Workflow workshop series. The series consists of hour-long workshops on eight successive Fridays beginning Friday, May 28 from 1-2pm ET (10-11am PT).
+Eli Holmes from the Northwest Center will be hosting an 8-part Practical R Workflow workshop series. The series consists of hour-long workshops on eight successive Fridays.
 
 The workshop will be focused on tools and practices for NMFS scientists to help you be faster, more efficient, and organized in your coding and merging reports with code. These are open to all NMFS employees. They will be lecture format with follow-along material. Please see the workshop [webpage](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/) for more information and past workshop recordings.
 

@@ -22,7 +22,7 @@ Live workshops take place on Fridays from from 1-2pm ET (10-11am PT). All worksh
 | ------------- | ------------- |
 | May 28  | [Introduction to workflow using RStudio and Git/GitHub](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week1.html)  |
 | June 4  | [More Git skills](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week2.html)  |
-| June 11  | GitHub skills  |
+| June 11  | [GitHub skills](https://www.youtube.com/watch?v=IGc2cgMFoPs)  |
 | June 18  | Rmarkdown for reports  |
 | June 25  | Making plots with ggplot2  |
 | July 2  | Creating a R package  |
